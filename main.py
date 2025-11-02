@@ -27,4 +27,5 @@ elif imc < 35:
 elif imc < 40:
 	print("Seu estado é de Obesidade Grau II (severa)\nProcure um médico ou nutricionista.")
 else:
-	print("Seu estado é de Obesidade Grau III (mórbida)\nProcure um médico ou nutricionista.")iAN
+
+	print("Seu estado é de Obesidade Grau III (mórbida)\nProcure um médico ou nutricionista.")
